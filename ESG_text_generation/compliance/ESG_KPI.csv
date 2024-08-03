@@ -1,0 +1,37 @@
+KPI,KPI_type,KPI_description
+A1.1,metric,The types of emissions and respective emissions data.
+A1.2,metric,"Direct (Scope 1) and energy indirect (Scope 2) greenhouse gas emissions (in tonnes) and, where appropriate, intensity (e.g. per unit of production volume, per facility)."
+A1.3,metric,"Total hazardous waste produced (in tonnes) and, where appropriate, intensity (e.g. per unit of production volume, per facility)."
+A1.4,metric,"Total non-hazardous waste produced (in tonnes) and, where appropriate, intensity (e.g. per unit of production volume, per facility)."
+A1.5,text,Description of emission target(s) set and steps taken to achieve them.
+A1.6,text,"Description of how hazardous and non-hazardous wastes are handled, and a description of reduction target(s) set and steps taken to achieve them."
+A2.1,metric,"Direct and/or indirect energy consumption by type (e.g. electricity, gas or oil) in total (kWh in '000s) and intensity (e.g. per unit of production volume, per facility)."
+A2.2,metric,"Water consumption in total and intensity (e.g. per unit of production volume, per facility)."
+A2.3,text,Description of energy use efficiency target(s) set and steps taken to achieve them.
+A2.4,text,"Description of whether there is any issue in sourcing water that is fit for purpose, water efficiency target(s) set and steps taken to achieve them."
+A2.5,metric,"Total packaging material used for finished products (in tonnes) and, if applicable, with reference to per unit produced."
+A3.1,text,Description of the significant impacts of activities on the environment and natural resources and the actions taken to manage them.
+A4.1,text,"Description of the significant climate-related issues which have impacted, and those which may impact, the issuer, and the actions taken to manage them."
+B1.1,metric,"Total workforce by gender, employment type (for example, full- or part-time), age group and geographical region."
+B1.2,metric,"Employee turnover rate by gender, age group and geographical region."
+B2.1,metric,Number and rate of work-related fatalities occurred in each of the past three years including the reporting year.
+B2.2,metric,Lost days due to work injury.
+B2.3,text,"Description of occupational health and safety measures adopted, and how they are implemented and monitored."
+B3.1,metric,"The percentage of employees trained by gender and employee category (e.g. senior management, middle management)."
+B3.2,metric,The average training hours completed per employee by gender and employee category.
+B4.1,text,Description of measures to review employment practices to avoid child and forced labour.
+B4.2,text,Description of steps taken to eliminate such practices when discovered.
+B5.1,metric,Number of suppliers by geographical region.
+B5.2,text,"Description of practices relating to engaging suppliers, number of suppliers where the practices are being implemented, and how they are implemented and monitored."
+B5.3,text,"Description of practices used to identify environmental and social risks along the supply chain, and how they are implemented and monitored."
+B5.4,text,"Description of practices used to promote environmentally preferable products and services when selecting suppliers, and how they are implemented and monitored."
+B6.1,metric,Percentage of total products sold or shipped subject to recalls for safety and health reasons.
+B6.2,metric,Number of products and service related complaints received and how they are dealt with.
+B6.3,text,Description of practices relating to observing and protecting intellectual property rights.
+B6.4,text,Description of quality assurance process and recall procedures.
+B6.5,text,"Description of consumer data protection and privacy policies, and how they are implemented and monitored."
+B7.1,metric,Number of concluded legal cases regarding corrupt practices brought against the issuer or its employees during the reporting period and the outcomes of the cases.
+B7.2,text,"Description of preventive measures and whistle-blowing procedures, and how they are implemented and monitored."
+B7.3,text,Description of anti-corruption training provided to directors and staff.
+B8.1,text,"Focus areas of contribution (e.g. education, environmental concerns, labour needs, health, culture, sport)."
+B8.2,text,Resources contributed (e.g. money or time) to the focus area.

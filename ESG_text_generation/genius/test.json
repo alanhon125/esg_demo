@@ -1,0 +1,63 @@
+{
+    "id": 856,
+    "text": "This saved approximately 64,700 tons of standard coal per year, and reduced carbon dioxide emissions by 170,000 tons – equivalent to the effect of planting 17 million trees.",
+    "entities": [
+        {
+            "id": 3690,
+            "label": "target_metric",
+            "start_offset": 40,
+            "end_offset": 53
+        },
+        {
+            "id": 3691,
+            "label": "target_metric",
+            "start_offset": 76,
+            "end_offset": 100
+        },
+        {
+            "id": 3692,
+            "label": "number",
+            "start_offset": 104,
+            "end_offset": 116
+        },
+        {
+            "id": 3693,
+            "label": "number",
+            "start_offset": 133,
+            "end_offset": 172
+        },
+        {
+            "id": 3695,
+            "label": "basis",
+            "start_offset": 54,
+            "end_offset": 62
+        },
+        {
+            "id": 4138,
+            "label": "number",
+            "start_offset": 11,
+            "end_offset": 36
+        }
+    ],
+    "relations": [
+        {
+            "id": 1215,
+            "from_id": 3690,
+            "to_id": 4138,
+            "type": "decreased by"
+        },
+        {
+            "id": 1216,
+            "from_id": 3691,
+            "to_id": 3692,
+            "type": "decreased by"
+        },
+        {
+            "id": 1217,
+            "from_id": 3692,
+            "to_id": 3693,
+            "type": "equal"
+        }
+    ],
+    "Comments": []
+}

@@ -1,0 +1,24 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+django = "*"
+psycopg2-binary = "*"
+sentence-transformers = "*"
+camelot-py = "*"
+opencv-python = "*"
+pymupdf = "*"
+cloudpickle = "*"
+omegaconf = "*"
+pycocotools = "*"
+fairscale = "*"
+timm = "*"
+pdf2image = "*"
+
+[dev-packages]
+ipykernel = "*"
+
+[requires]
+python_version = "3.9"

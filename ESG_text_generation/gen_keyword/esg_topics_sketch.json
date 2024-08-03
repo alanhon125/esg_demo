@@ -1,0 +1,78 @@
+{
+   "emission target":[
+      ["GHG emissions", "reduction target", "Paris Agreement", "Science-based Target", "carbon footprint", "emissions tracking"],
+      ["dual carbon goal", "green development", "Carbon Peak", "Carbon Neutrality", "national strategy", "emission reduction", "green transformation"],
+      ["decarbonisation", "environmental protection", "ESG targets", "practical solutions", "emissions", "ESG risk", "sustainability", "climate-resilient portfolio"]
+   ],
+   "greenhouse gas emission":[
+      ["primary source", "carbon footprint", "GHG emissions", "direct emission", "carbon intensity", "carbon reduction", "CO 2 equivalent"],
+      ["greenhouse gas emissions", "fuel consumption", "fossil fuel", "Nitrogen Oxides", "Sulphur Oxides", "Particulate Matter", "Carbon Oxide", "global warming"],
+      ["relevant air emissions", "exhaust gas", "GHG generated", "emissions intensity", "Scope 1 emission", "diesel consumption", "Scope 2 emission", "purchased electricity"]
+   ],
+   "carbon reduction":[
+      ["carbon reduction", "carbon capture", "low carbon innovation", "emission management", "utilities", "transportation"],
+      ["Climate Change Policy", "Task Force on Climate-related Financial Disclosures", "responsible energy use", "Carbon Reduction Taskforce Team", "science-based targets", "decarbonisation", "best practices", "mitigate climate risks"],
+      ["reduce GHG emissions", "carbon neutrality target", "research", "innovation", "technology", "energy portfolio", "zero emission"]
+   ],
+   "wastewater":[
+      ["wastewater discharge", "sewage water", "government regulations", "Hong Kong Water Pollution Control Ordinance", "drainage systems", "water treatment systems"],
+      ["Law of the People’s Republic of China on Prevention and Control of Water Pollution", "onsite management", "sewage treatment plant", "internal monitoring", "wastewater discharge", "national or local standards"],
+      ["monitor wastewater discharge", "water treatment system", "domestic sewage", "wastewater collection", "Integrated Wastewater Discharge Standard", "filter", "recycled"]
+   ],
+   "hazardous waste":[
+      ["waste management", "hazardous waste", "waste electrical and electronic equipment", "chemical waste collectors", "local regulations", "waste disposal"],
+      ["hazardous waste", "qualified treatment facilities", "national and location-specific discharge standards", "waste management policies", "waste disposal requirements", "qualified third party"],
+      ["hazardous waste", "oil waste", "catalyst waste", "chemical waste", "Standards for Controlling Pollution by Storing Hazardous Wastes", "monitoring", "treatment facilities", "disposal"]
+   ],
+   "waste management":[
+      ["sources of waste", "daily activities", "waste reduction", "waste recycling", "waste transfer", "landfill"],
+      ["disposable products", "sorting and recycling", "recycling", "domestic waste", "landfills", "incinerated", "relevant regulations"],
+      ["solid waste", "effective internal policies", "waste management initiatives", "recycling and disposal of waste", "licensed waste collectors", "waste decomposers"]
+   ],
+   "energy efficiency":[
+      ["use of energy", "electricity consumption", "lighting system", "air conditioning", "heating and cooling", "electrical appliances"],
+      ["Energy Conservation Law of the People's Republic of China", "energy management system", "low energy consumption design", "energy-saving", "technological transformation", "reusable energy platforms", "energy intensity"],
+      ["energy consumption", "energy saving measures", "energy efficiency", "energy saving electrical appliances", "energy-saving mode", "best practices"]
+   ],
+   "clean energy":[
+      ["green building", "enewable energy", "sustainable development", "circular economy", "renewable energy portfolio", "photovoltaic system", "onsite renewable energy infrastructure", "Renewable Energy Certificates"],
+      ["green concepts", "renewable energy sources", "solar energy", "geothermal heat", "internal policy requirements", "eco-friendly features"],
+      ["hydrogen production", "clean energy", "hydrogen fuel cell vehicles", "hydrogen refueling stations", "hydrogen energy supply", "hydrogen energy value chain"]
+   ],
+   "water usage":[
+      ["municipal supplies", "domestic water", "personal hygiene", "routine cleaning", "water taps", "dishwashers"],
+      ["drinking water", "contamination", "fresh water", "water-scarcity", "water footprint", "operation", "Raw Coal Washing plant", "washing process"],
+      ["clean water", "freshwater", "office", "municipal water supply", "washroom taps", "electronic sensor", "water leakage", "water dispensers", "employee", "consume water"],
+      ["water", "oil sands extraction", "generate steam", "water treatment system", "recycle water", "brackish water", "remove particles", "dissolved solids", "boiler"]
+   ],
+   "water efficiency":[
+      ["water usage", "optimise consumption", "monitor", "water efficiency", "water consumption reports", "rainwater harvesting systems", "applicable regulations and guidelines"],
+      ["water system", "water-saving appliances", "rainwater collection facilities", "recycles water", "water efficiency", "water-saving publicity", "employees awareness", "water-saving mentality"],
+      ["water saving", "unnecessary water consumption", "leaking water taps or pipes", "wastage of water", "dual-flush toilets", "faucets and urinals with infrared sensors"]
+   ],
+   "pollution":[
+      ["pollutant discharge limit standards", "pollutant self-monitoring", "treatment facilities", "exhaust pollutants", "exploitable pollutants", "environmental pollution accidents", "pollution prevention"],
+      ["environmental impacts", "air pollution", "spills, leak and accidental discharges", "polluting materials", "emergency procedures", "local authorities"],
+      ["environmental monitoring", "noise", "environmental protection departments", "pollutant emissions", "production and operation", "discharge permits", "local emission standards"]
+   ],
+   "use of resources":[
+      ["use of resources", "paper consumption", "paperless office", "recycling practices", "single-use plastics", "replacing bottled water", "reusable tableware"],
+      ["natural resources", "alternative raw materials", "fossil fuels", "cement process", "recycling,", "remanufacturing,", "resource utilisation efficiency"],
+      ["construction and operation", "natural resources", "resources conservation", "material", "renewable industrial products", "natural resource"]
+   ],
+   "environmental impact":[
+      ["environmental policy", "environmental protection", "reduce pollutants", "mitigate environmental risks", "management monitoring", "environmental policies", "business activities"],
+      ["operational activities", "innovative environmental care measures", "environmental measures", "aquatic biodiversity", "environmentally friendly equipment", "sustainable materials", "ecosystem restoration project", "tree planting"],
+      ["environment impacts", "development projects", "detrimental effect", "ecosystem", "disturbances", "environmental protection"]
+   ],
+   "climate change":[
+      ["climate change", "rising sea levels", "extreme weather", "climate risks", "Paris Agreement", "carbon emissions", "carbon neutrality"],
+      ["climate change", "global ecology", "extreme weather incidents", "Action Plan for Carbon Peaking Before 2030", "Action for Green and Low Carbon Transformation of Energy", "carbon peaking and carbon neutrality"],
+      ["climate change", "climate resilience", "climate risk assessment", "climate risk mitigation", "climate-related risk", "tropical cyclones", "flooding", "compliance to the regulations"]
+   ],
+   "climate adaptation":[
+      ["management strategies", "climate adaptation", "climate risk management system", "Emergency Plan for Typhoon and Flood", "extreme weather events", "awareness of colleagues", "emergency command team", "control and rescue measures"],
+      ["sustainable supply chain", "ESG risk management", "green supply chain", "green procurement", "environmental protection-related requirements", "environmental protection responsibilities", "green supplier screening", "green indicators", "green procurement contract fulfillment:"],
+      ["green finance facilities", "green loans", "green undertakings", "sustainability-linked loans", "green projects", "energy efficiency", "material usage", "water usage", "environment quality"]
+   ]
+}

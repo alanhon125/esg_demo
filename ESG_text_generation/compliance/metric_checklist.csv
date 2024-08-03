@@ -1,0 +1,297 @@
+metric,disclosure_no,check_type
+Benzo(a) Pyrene,A1.1,any
+Coal Fly Ash,A1.1,any
+Dust,A1.1,any
+Flaring Gases Emissions,A1.1,any
+Nitrogen Oxide,A1.1,any
+Particulate Matter,A1.1,any
+Small Particles,A1.1,any
+Sulphur Oxide,A1.1,any
+Volatile Organic Compounds,A1.1,any
+Ammonia,A1.2,optional
+Ammoniacal Nitrogen,A1.2,optional
+Carbon Dioxides Emission Per Employee,A1.2,optional
+Carbon Dioxides Emission Per Production,A1.2,optional
+Carbon Dioxides Emission Per Revenue,A1.2,optional
+Carbon Dioxides,A1.2,optional
+Carbon Monoxides,A1.2,optional
+GHG Scope 1 Emissions Per Employee,A1.2,optional
+GHG Scope 1 Emissions Per Production,A1.2,optional
+GHG Scope 1 Emissions Per Revenue,A1.2,optional
+GHG Scope 1 Emissions,A1.2,compulsory
+GHG Scope 2 Emissions Per Employee,A1.2,optional
+GHG Scope 2 Emissions Per Production,A1.2,optional
+GHG Scope 2 Emissions Per Revenue,A1.2,optional
+GHG Scope 2 Emissions,A1.2,compulsory
+GHG Scope 3 Emissions Per Employee,A1.2,optional
+GHG Scope 3 Emissions Per Production,A1.2,optional
+GHG Scope 3 Emissions Per Revenue,A1.2,optional
+GHG Scope 3 Emissions,A1.2,optional
+Methane Emission Per Employee,A1.2,optional
+Methane Emission Per Production,A1.2,optional
+Methane Emission Per Revenue,A1.2,optional
+Methane,A1.2,optional
+Methanol,A1.2,optional
+Ozone,A1.2,optional
+Perfluorinated Carbons,A1.2,optional
+Total GHG Emissions Per Employee,A1.2,optional
+Total GHG Emissions Per Production,A1.2,optional
+Total GHG Emissions Per Revenue,A1.2,optional
+Total GHG Emissions,A1.2,optional
+Chemical Oxygen Demand,A1.3,optional
+Chemical Wastes,A1.3,optional
+Cinders,A1.3,optional
+Clinical Wastes,A1.3,optional
+Ethylene,A1.3,optional
+Hazardous Wastes Per Employee,A1.3,optional
+Hazardous Wastes Per Production,A1.3,optional
+Hazardous Wastes Per Revenue,A1.3,optional
+Hazardous Wastes,A1.3,compulsory
+Hydrofluoric Acid,A1.3,optional
+Lead,A1.3,optional
+Oily Sludges,A1.3,optional
+Oily Wastes,A1.3,optional
+Other Hazardous Wastes,A1.3,optional
+Cooking Oil,A1.4,optional
+Domestic Wastes,A1.4,optional
+Hazardous and Non-hazardous Wastes,A1.4,optional
+Muds,A1.4,optional
+Non-hazardous Wastes Per Employee,A1.4,optional
+Non-hazardous Wastes Per Production,A1.4,optional
+Non-hazardous Wastes Per Revenue,A1.4,optional
+Non-hazardous Wastes,A1.4,compulsory
+Other Non-hazardous Wastes,A1.4,optional
+Rocks,A1.4,optional
+Sewage Discharged,A1.4,optional
+Solid Wastes,A1.4,optional
+Acetylene,A2.1,optional
+Acrylic,A2.1,optional
+Alcohol Based Liquid Fuel,A2.1,optional
+Anthracite,A2.1,optional
+Argon Gas,A2.1,optional
+Biodiesel,A2.1,optional
+Biofuel,A2.1,optional
+Biogas,A2.1,optional
+Bitumite,A2.1,optional
+Blast Furnace Gas,A2.1,optional
+Charcoal,A2.1,optional
+Chilled Water,A2.1,optional
+Cleaned Coal,A2.1,optional
+Coal Consumption Per Employee,A2.1,optional
+Coal Consumption Per Production,A2.1,optional
+Coal Consumption Per Revenue,A2.1,optional
+Coal Consumption,A2.1,optional
+Coal Gas,A2.1,optional
+Coke ,A2.1,optional
+Cooling,A2.1,optional
+Crude Oil Consumption Per Employee,A2.1,optional
+Crude Oil Consumption Per Production,A2.1,optional
+Crude Oil Consumption Per Revenue,A2.1,optional
+Crude Oil Total,A2.1,optional
+Diesel Consumption Per Employee,A2.1,optional
+Diesel Consumption Per Production,A2.1,optional
+Diesel Consumption Per Revenue,A2.1,optional
+Diesel Total,A2.1,optional
+Electricity Consumption Per Employee,A2.1,optional
+Electricity Consumption Per Production,A2.1,optional
+Electricity Consumption Per Revenue,A2.1,optional
+Electricity Consumption,A2.1,any
+Electricity Generation,A2.1,optional
+Electricity Saving,A2.1,optional
+Energy Consumption Per Employee,A2.1,optional
+Energy Consumption Per Production,A2.1,optional
+Energy Consumption Per Revenue,A2.1,optional
+Energy Consumption,A2.1,any
+Furnace Oil,A2.1,optional
+Gasoline Consumption Per Employee,A2.1,optional
+Gasoline Consumption Per Production,A2.1,optional
+Gasoline Consumption Per Revenue,A2.1,optional
+Gasoline Total,A2.1,optional
+Heat Energy Purchased,A2.1,optional
+Heavy Oil,A2.1,optional
+Hot Water,A2.1,optional
+Jet Kerosene,A2.1,optional
+Kerosene,A2.1,optional
+Landfill Gas,A2.1,optional
+Liquid Ammonia,A2.1,optional
+Liquid Fossil Fuels,A2.1,optional
+LNG,A2.1,optional
+LPG,A2.1,optional
+Marine Gas Oil,A2.1,optional
+Methanol,A2.1,optional
+Mobile Combustion,A2.1,optional
+Naphtha Comsumption,A2.1,optional
+Natural Gas Consumption Per Employee,A2.1,optional
+Natural Gas Consumption Per Production,A2.1,optional
+Natural Gas Consumption Per Revenue,A2.1,optional
+Natural Gas Total,A2.1,optional
+Non-renewable Energy,A2.1,optional
+NRF,A2.1,optional
+Oil and Grease,A2.1,optional
+Other Energy Consumption,A2.1,optional
+Other Gas,A2.1,optional
+Petroleum Coke,A2.1,optional
+Photovoltaic Power,A2.1,optional
+Produced Energy,A2.1,optional
+Propane,A2.1,optional
+Purchase of Energy,A2.1,optional
+Renewable Energy,A2.1,optional
+Soft Coal,A2.1,optional
+Stream Energy Puchased,A2.1,optional
+Thermal Power,A2.1,optional
+Towngas Consumption,A2.1,optional
+Wood,A2.1,optional
+Industrial Water,A2.2,optional
+Mine Water,A2.2,optional
+Water Consumption Per Employee,A2.2,optional
+Water Consumption Per Production,A2.2,optional
+Water Consumption Per Revenue,A2.2,optional
+Water Consumption,A2.2,compulsory
+Water Reuse,A2.2,optional
+Water Saving,A2.2,optional
+Packaging Material Consumption,A2.5,compulsory
+Paper Consumption Per Employee,A2.5,optional
+Paper Consumption Per Production,A2.5,optional
+Paper Consumption Per Revenue,A2.5,optional
+Paper Consumption,A2.5,optional
+Plastic Consumption Per Employee,A2.5,optional
+Plastic Consumption Per Production,A2.5,optional
+Plastic Consumption Per Revenue,A2.5,optional
+Plastic Consumption,A2.5,optional
+Employees With Disabilities,B1.1,optional
+Number of Contractors and Interns,B1.1,optional
+Number of Employees in Geographical Region 1,B1.1,optional
+Number of Employees in Geographical Region 2,B1.1,optional
+Number of Employees in Geographical Region 3,B1.1,optional
+Number of Employees with 30 Years Old or Below,B1.1,optional
+Number of Employees with 31-50 Years Old,B1.1,optional
+Number of Employees with 51 Years Old or Above,B1.1,optional
+Number of Employees,B1.1,compulsory
+Number of Female Employees,B1.1,compulsory
+Number of Full-time Employees,B1.1,compulsory
+Number of General Employees,B1.1,optional
+Number of Male Employees,B1.1,compulsory
+Number of Middle Management,B1.1,optional
+Number of Part-time Employees,B1.1,optional
+Number of Senior Management,B1.1,optional
+Number of Volunteers,B1.1,optional
+Turnover Rate of Employees  with 31-50 Years Old,B1.2,optional
+Turnover Rate of Employees in Geographical Region 1,B1.2,optional
+Turnover Rate of Employees in Geographical Region 2,B1.2,optional
+Turnover Rate of Employees in Geographical Region 3,B1.2,optional
+Turnover Rate of Employees with 30 Years Old or Below,B1.2,optional
+Turnover Rate of Employees with 51 Years Old or Above,B1.2,optional
+Turnover Rate of Total Employees,B1.2,compulsory
+Turnover Rate of Total Female Employees,B1.2,compulsory
+Turnover Rate of Total Male Employees,B1.2,compulsory
+Number of Work-related Fatalities in 2-years Ago,B2.1,optional
+Number of Work-related Fatalities in Last Year,B2.1,optional
+Number of Work-related Fatalities in This Year,B2.1,compulsory
+Rate of Work-related Fatalities on Number of Employees in 2-years Ago,B2.1,optional
+Rate of Work-related Fatalities on Number of Employees in Last Year,B2.1,optional
+Rate of Work-related Fatalities on Number of Employees in This Year,B2.1,optional
+Rate of Work-related Fatalities on Number of Hours-worked in 2-yeas ago,B2.1,optional
+Rate of Work-related Fatalities on Number of Hours-worked in Last Year,B2.1,optional
+Rate of Work-related Fatalities on Number of Hours-worked in This Year,B2.1,optional
+Lost-days Due to Work Injuries,B2.2,compulsory
+Occupational Diseases,B2.2,optional
+Total Injury Rate,B2.2,optional
+Administratives Who Took Part in Training,B3.1,optional
+Contractors and Interns Who Took Part in Training,B3.1,optional
+Executives Who Took Part in Training,B3.1,optional
+Female Employees Who Took Part in Training,B3.1,any
+General Employees Who Took Part in Training,B3.1,optional
+Male Employees Who Took Part in Training,B3.1,any
+Middle Management Who Took Part in Training,B3.1,optional
+Production Employees Who Took Part in Training,B3.1,optional
+Senior Management Who Took Part in Training,B3.1,optional
+Technicians Who Took Part in Training,B3.1,optional
+Total Employees Who Took Part in Training,B3.1,any
+Volunteers Who Took Part in Training,B3.1,optional
+Training Hours that Administratives Participated In,B3.2,optional
+Training Hours that Contractors and Interns Participated In,B3.2,optional
+Training Hours that Employees Participated In,B3.2,any
+Training Hours that Executives Participated In,B3.2,optional
+Training Hours that Female Employees Participated In,B3.2,any
+Training Hours that General Employees Participated In,B3.2,optional
+Training Hours that Male Employees Participated In,B3.2,any
+Training Hours that Middle Management Participated In,B3.2,optional
+Training Hours that Production Employees Participated In,B3.2,optional
+Training Hours that Senior Management Participated In,B3.2,optional
+Training Hours that Technicians Participated In,B3.2,optional
+Training Hours that Volunteers Participated In,B3.2,optional
+Number of Suppliers in Geographical Region 1,B5.1,any
+Number of Suppliers in Geographical Region 2,B5.1,any
+Number of Suppliers in Geographical Region 3,B5.1,any
+Number of Suppliers in the Supply Chain,B5.1,any
+Customer Health & Safety,,optional
+Policy of Child Labor and Forced Labor,,optional
+Policy of Supply Chain Health & Safety,,optional
+Supply Chain Health & Safety Training,,optional
+Environmental Supply Chain Management,,optional
+Supply Chain Health & Safety Improvements,,optional
+Product Recall,,any
+Recalled Products as Part of the Total Products,,any
+Consumer Complaints Count,,any
+Consumer Complaints,,any
+Intellectual Property Controversies,,optional
+Product Quality Assurance Measures,,optional
+Policy of Data Privacy,,optional
+Number of Concluded Legal Cases Regarding Corruption against the Company,,compulsory
+Policy of Bribery and Corruption,,compulsory
+Anti-corruption Preventive Measures,,optional
+Anti-corruption Training,,optional
+Community Involvement,,optional
+Resources contributed (money or time) to the focus,,optional
+External Consultants,,optional
+Board Diversity,,optional
+"Board Gender Diversity, Percent",,optional
+Number of Women in Directors,,optional
+Different Voting Right Share,,optional
+Equal Shareholder Rights,,optional
+Equal Voting Right,,optional
+Minimum Number of Shares to Vote,,optional
+Proxy of Votes Confidential,,optional
+Shareholder Engagement,,optional
+Shareholder Rights,,optional
+Average Board Tenure,,optional
+Board Attendance,,optional
+Board Functions,,optional
+Board Independence,,optional
+Board Meeting Attendance Average,,optional
+Board Size,,optional
+Board Structure,,optional
+CEO Board Member,,optional
+Independent Board Members,,optional
+Number of Board Meetings,,optional
+Number of Board Size,,optional
+Strictly Independent Board Members,,optional
+CEO Chairman Duality,,optional
+Chairman Is Ex-CEO,,optional
+Non-Executive Board Members,,optional
+Audit Board Committee,,optional
+Audit Committee Independence,,optional
+Board Experience,,optional
+Committee Meetings Attendance Average,,optional
+Compensation Board Committee,,optional
+Compensation Committee Independence,,optional
+Corporate Governance Board Committee,,optional
+Executive Compensation ESG Performance,,optional
+Executive Compensation Performance,,optional
+Nomination Board Committee,,optional
+Nomination Committee Independence,,optional
+Internal Audit Department Reporting,,optional
+Coal Gangues,,optional
+Metal Consumption Per Employee,,optional
+Metal Consumption Per Production,,optional
+Metal Consumption Per Revenue,,optional
+Metal Consumption,,optional
+Policy of Climate Change,,optional
+Policy of Resource Reduction,,optional
+Refined Oil Products,,optional
+Sewage Treated,,optional
+Treated Water,,optional
+Period End Date,,optional
+Reporting Currency,,optional
+Revenue ,,optional
+Total Assets,,optional

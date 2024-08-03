@@ -1,0 +1,105 @@
+entity,keyword,disclosure_no
+target,emission,A1.5
+target_metric,emission,A1.5
+target,carbon neutrality,A1.5
+target_metric,carbon neutrality,A1.5
+target,dual carbon,A1.5
+target_metric,dual carbon,A1.5
+target,waste,A1.6
+target_metric,waste,A1.6
+target,sewage,A1.6
+target_metric,sewage,A1.6
+target,energy,A2.3
+target_metric,energy,A2.3
+target,water,A2.4
+target_metric,water,A2.4
+target,environment,A3.1
+target_metric,environment,A3.1
+target,pollutant,A3.1
+target_metric,pollutant,A3.1
+target,pollution,A3.1
+target_metric,pollution,A3.1
+target,natural resource,A3.1
+target_metric,natural resource,A3.1
+target,climate change,A4.1
+target_metric,climate change,A4.1
+target,climate-related,A4.1
+target_metric,climate-related,A4.1
+target,climate risk,A4.1
+target_metric,climate risk,A4.1
+target,accident,B2.3
+target_metric,accident,B2.3
+target,health,B2.3
+target_metric,health,B2.3
+target,emergency,B2.3
+target_metric,emergency,B2.3
+target,safety,B2.3
+target_metric,safety,B2.3
+target,safe operation,B2.3
+target_metric,safe operation,B2.3
+target,forced labor,B4.1
+target_metric,forced labor,B4.1
+target,forced labour,B4.1
+target_metric,forced labour,B4.1
+target,child labor,B4.1
+target_metric,child labor,B4.1
+target,child labour,B4.1
+target_metric,child labour,B4.1
+target,forced labor,B4.2
+target_metric,forced labor,B4.2
+target,forced labour,B4.2
+target_metric,forced labour,B4.2
+target,child labor,B4.2
+target_metric,child labor,B4.2
+target,child labour,B4.2
+target_metric,child labour,B4.2
+target,contractor,B5.2
+target_metric,contractor,B5.2
+target,supplier,B5.2
+target_metric,supplier,B5.2
+target,supply chain,B5.2
+target_metric,supply chain,B5.2
+target,supply contract,B5.2
+target_metric,supply contract,B5.2
+target,contractor,B5.3
+target_metric,contractor,B5.3
+target,supplier,B5.3
+target_metric,supplier,B5.3
+target,supply chain,B5.3
+target_metric,supply chain,B5.3
+target,supply contract,B5.3
+target_metric,supply contract,B5.3
+target,contractor,B5.4
+target_metric,contractor,B5.4
+target,supplier,B5.4
+target_metric,supplier,B5.4
+target,supply chain,B5.4
+target_metric,supply chain,B5.4
+target,supply contract,B5.4
+target_metric,supply contract,B5.4
+target,intellectual property,B6.3
+target_metric,intellectual property,B6.3
+target,quality assurance,B6.4
+target_metric,quality assurance,B6.4
+target,product quality,B6.4
+target_metric,product quality,B6.4
+target,recall,B6.4
+target_metric,recall,B6.4
+target,data protection,B6.5
+target_metric,data protection,B6.5
+target,privacy,B6.5
+target_metric,privacy,B6.5
+target,information security,B6.5
+target_metric,information security,B6.5
+target,informant,B7.2
+target_metric,informant,B7.2
+target,whistle-blow,B7.2
+target_metric,whistle-blow,B7.2
+target,anti-corruption,B7.3
+target_metric,anti-corruption,B7.3
+target,community,B8.1
+target_metric,community,B8.1
+target,welfare,B8.1
+target_metric,welfare,B8.1
+target,poverty,B8.1
+target_metric,poverty,B8.1
